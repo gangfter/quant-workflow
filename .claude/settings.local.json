@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python rebuild_research_dataset.py)",
+      "Bash(python research/factor_decay.py)"
+    ]
+  }
+}
