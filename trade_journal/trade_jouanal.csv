@@ -1,0 +1,1 @@
+id,datetime_entry,datetime_exit,symbol,direction,mode,setup_name,trigger_evidence,gate_passed,veto_checked,planned_entry,planned_stop,planned_target,planned_rr,actual_entry,actual_exit,actual_rr,size_pct,slippage,fee,pnl_pct,emotion_entry,emotion_exit,rule_violation,lesson
