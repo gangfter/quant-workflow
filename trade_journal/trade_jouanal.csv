@@ -1,1 +1,1 @@
-id,datetime_entry,datetime_exit,symbol,direction,mode,setup_name,trigger_evidence,gate_passed,veto_checked,planned_entry,planned_stop,planned_target,planned_rr,actual_entry,actual_exit,actual_rr,size_pct,slippage,fee,pnl_pct,emotion_entry,emotion_exit,rule_violation,lesson
+번호,진입일시,청산일시,종목,방향,매매유형,셋업명,진입근거,레짐통과,체크리스트통과,계획진입가,계획손절가,계획목표가,계획RR,실제진입가,실제청산가,실제RR,비중(%),슬리피지,수수료,손익(%),진입감정(1~5),청산감정(1~5),규칙위반,한줄회고
